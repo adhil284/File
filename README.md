@@ -1,5 +1,4 @@
 ### EX NO : 10
-### DATE  : 08.06.2022
 # <p align="center">File</p>
 
 ## Aim:
